@@ -1,4 +1,4 @@
-// GIven a soretd array and a key, find the element in the array whose abosulte difference with the key is minimum
+// GIven a sorted array and a key, find the element in the array whose absolute difference with the key is minimum
 #include <iostream>
 using namespace std;
 
